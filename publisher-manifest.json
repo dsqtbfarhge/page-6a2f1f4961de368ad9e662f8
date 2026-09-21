@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6e6bc28b509f1e4ccfa0ea1c",
+  "owner": "dsqtbfarhge",
+  "repo": "page-6a2f1f4961de368ad9e662f8",
+  "title": "佛跳墙",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6a2f1f4961de368ad9e662f8",
+      "a": "佛跳墙",
+      "b": "2027官方最新地址导航",
+      "entity": "佛跳墙",
+      "brand": "佛跳墙",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "35ae03b19012edc9bc6df4ae4484a255b54b5d103d390ac427b62ddd5fbd738c",
+      "content": {
+        "primary_entity": "佛跳墙",
+        "keyword1": "佛跳墙",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "选择与设备匹配的客户端，按文档导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "按需选择套餐",
+          "AI_DESCRIPTION": "，佛跳墙提供基础版、旗舰版与团队版三档订阅，覆盖 3 至 20 台设备在线，年付可享对应优惠。结合日常流量、设备数量与专线需求挑选，配置对应客户端即可使用。",
+          "AI_FEATURES_INTRO": "套餐选择围绕流量、设备与周期展开。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，适合轻度使用与 3 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备与专线优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_1": "入门流量",
+          "AI_FEATURE_TITLE_2": "均衡性能",
+          "AI_FEATURE_TITLE_3": "多设备支持",
+          "AI_GUIDE_INTRO": "三步完成套餐选择与订阅配置。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "佛跳墙提供多档网络加速订阅，覆盖基础版、旗舰版与团队版。按设备数量、每月流量与使用周期选择，配合对应客户端导入订阅即可。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需加速",
+          "AI_HIGHLIGHT_1": "年付低至 ¥150",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备",
+          "AI_PLANS_INTRO": "对照流量、设备数与专线权益挑选档位，年付价格更低。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量与在线设备数，从基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量与节点权益，确认适配自己的使用场景。",
+          "AI_STEP_TEXT_3": "参照客户端文档完成订阅导入与连接，随后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "佛跳墙多档套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "佛跳墙基础版和旗舰版有哪些区别？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、3 台设备，普通线路节点池；旗舰版每月 300GB 流量、5 台设备，增加 IPLC 专线游戏加速优化和全节点原生流媒体解锁。",
+          "AI_FAQ_QUESTION_2": "一个套餐可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线，超出数量可能需要升级套餐。",
+          "AI_FAQ_QUESTION_3": "年付和月付哪个更划算？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比月付同档累计金额更省，适合长期使用。",
+          "AI_FAQ_QUESTION_4": "如何在自己的设备上导入订阅？",
+          "AI_FAQ_ANSWER_4": "先按设备系统选择对应客户端，在客户端内找到订阅导入入口，粘贴订阅地址后更新节点列表即可使用。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备，含 VIP 高带宽节点与企业定制路由，适合多人共享或小型团队日常使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bcpjob.cn",
+    "host": "bcpjob.cn"
+  },
+  "file_hashes": {
+    "index.html": "4376e0fd95f5ae94245accfba2efb9c2aac15d7131aa9102fd89d44485671820",
+    "sitemap.xml": "3628c560f117e46be390ae2a0258dab60743a671425a56d8314ef1a0e0dcdc29",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "caf33ec6f27f92e0e564c261192dc3a00b341aae11dff148b81c488ae35f99cf",
+    "robots.txt": "5e9192dae40ef96e931f1b722f98b51fd12c6521be2e529ad6d4c8d5ecc1e489",
+    "f532a5f9a700d6f10b8ddc11fcc9dd58.txt": "de06261f106e4a07270e1fea3f489d138a946ff08734d9db75329ee19b0bb5f3"
+  },
+  "revision": "200905d65b062716b18eedc1ff8dbe2a42c619b6aab5fe338ac494b3edad4992"
+}
